@@ -1,0 +1,12 @@
+.login{
+    .login-card{
+        width: 700px;
+        height: 500px;
+        background-color: white;
+        .left{
+            color: white;
+            background: linear-gradient(rgb(90, 8, 116,0.5),rgb(48, 46, 46,0.5)), url('https://images.unsplash.com/photo-1527525443983-6e60c75fff46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1370&q=80');
+            background-size: cover;
+        }
+    }
+}
